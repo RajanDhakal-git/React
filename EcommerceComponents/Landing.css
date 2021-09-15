@@ -1,0 +1,14 @@
+#navi{
+    background: linear-gradient( 120deg,#2bcbba 10%,#26de81 10% ); 
+    border-radius: 20px;
+    box-shadow: 4px 4px  10px rgb(20, 20, 20);
+  }
+.header{
+    min-height: 100vh;
+    background-size: cover;
+     background: linear-gradient(to bottom  right, #2bcbba, #26de81 ); 
+    background-color: #c0392b;
+    }
+    .header .heading{
+        margin-top: 194px;
+    }

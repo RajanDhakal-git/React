@@ -1,0 +1,13 @@
+#spans{
+    color: #26de81;
+    font-size: 60px;
+}
+
+.btn{
+    background:#fff;
+    border-radius: 70px;
+   font-size: 20px;
+    border: none;
+    padding: 15px;
+    color: #000;
+}

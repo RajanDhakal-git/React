@@ -1,0 +1,34 @@
+#bran{
+    /* border-top: 1px solid #eb4d4b; */
+    position: relative;
+    border-radius: 10px;
+    min-height: 40vh;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    /* background:  linear-gradient(-135deg,#ffef65 10%,#fff 10%); */
+    box-shadow: 4px 4px 4px grey;
+}
+#bran::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0%;
+    bottom: 0%;
+    right: 0%;
+    clip-path: circle(35.4% at 50% 0);
+    /* background: linear-gradient(to bottom  right, #fa6fe6,#ffef65 );  */
+    background: #26de81;
+    z-index: -1;
+}
+
+.icon i{  
+    height: 3.5rem;
+    line-height: 3.5rem;
+    width: 3.5rem;
+    font-size: 1.5rem;
+    border-radius: 50%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    /* background-color:#fa6fe6 ; */
+}

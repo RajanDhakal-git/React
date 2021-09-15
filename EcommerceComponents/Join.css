@@ -1,0 +1,8 @@
+.bgimg{
+    background: linear-gradient(rgba(0,0,0,0.7) 100%,black ),url('Img/office.jpeg')  no-repeat;
+  min-height: 70vh;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+}

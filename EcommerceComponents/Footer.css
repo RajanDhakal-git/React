@@ -1,0 +1,16 @@
+
+#foter{
+    background: linear-gradient(to bottom  right,#26de81, #2bcbba ); 
+    bottom: 0px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    overflow: hidden;
+}
+#foter i{
+    padding: 5px;
+}
+#foter  a{
+    color: rgb(255, 255, 255);
+      margin: 10px;
+    text-decoration: none;
+}
